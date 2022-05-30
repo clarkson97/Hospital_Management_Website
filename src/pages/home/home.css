@@ -1,0 +1,13 @@
+.App {
+  position: relative;
+}
+.navbar__hero__wrapper {
+  height: 65vh;
+  width: 100%;
+  background: #08071f;
+}
+
+/* .navbar__hero {
+  position: relative;
+  margin: 0px 100px 0px 100px;
+} */
